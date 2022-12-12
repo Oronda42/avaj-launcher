@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import src.parsing.Config;
 import src.parsing.FileParser;
 import src.tower.WeatherTower;
+import src.Logger;
 
 public class Main {
 	public static void main(String[] argv) {
